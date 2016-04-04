@@ -1,2 +1,2 @@
 # kicad-libs
-Some KiCad libraries for my projects
+Some misc KiCad footprints and symbols
